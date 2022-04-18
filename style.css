@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align:center;
+}
+nav{
+  text-align:center ;
+}
+figure{
+  text-align:center ;
+}
+#featured-property > p{
+  text-align:center ;
+  width: 800px;
+  left:200px;
+  right:200px;
+}
